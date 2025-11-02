@@ -1,0 +1,2 @@
+My tips.
+if u have an old computer, and a usb, u can make that your hacking real life target.if u want to boot it on a specific os, install the iso files(google it) on the usb and and make it bootable using rufus(it is easy) andthen u can put the usb in, start the computer, repeatedly press the boot key(google yours) and then navigate through bios to boot from and select ur usb drive and u have the desired os. u have your own hackig target
